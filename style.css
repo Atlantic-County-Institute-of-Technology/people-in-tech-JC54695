@@ -1,6 +1,13 @@
 /* Jayden Clisham, 12.17.24 */
 
+table {
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 100%;
+}
 
-.jamesG{
-    
+td, th {
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
 }
