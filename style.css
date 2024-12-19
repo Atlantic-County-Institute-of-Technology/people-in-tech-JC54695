@@ -1,13 +1,33 @@
 /* Jayden Clisham, 12.17.24 */
 
+body {
+    background-color: lavenderblush;
+  }
+
+
 table {
     font-family: 'Times New Roman', Times, serif;
     border-collapse: collapse;
     width: 100%;
+    border-color: aquamarine;
 }
 
 td, th {
-    border: 1px solid;
+    border: 5px solid;
     text-align: left;
     padding: 8px;
 }
+
+div.quote {
+    text-align: center;
+  }
+
+  div.link {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: xx-large;
+    color: lightskyblue;
+  }
+
